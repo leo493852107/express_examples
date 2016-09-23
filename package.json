@@ -14,9 +14,12 @@
     "cookie-session": "^2.0.0-alpha.1",
     "crypto": "0.0.3",
     "ejs": "^2.5.2",
+    "escape-html": "^1.0.3",
     "express": "^4.14.0",
     "express-session": "^1.14.1",
+    "fs": "0.0.1-security",
     "jade": "^1.11.0",
+    "marked": "^0.3.6",
     "morgan": "^1.7.0",
     "pwd": "^1.1.0"
   }
